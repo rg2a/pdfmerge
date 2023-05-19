@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\bin\Debug\pdfmerge.exe.config
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\bin\Debug\pdfmerge.exe
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\bin\Debug\pdfmerge.pdb
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\bin\Debug\PdfSharp.Charting.dll
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\bin\Debug\PdfSharp.dll
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\bin\Debug\PdfSharp.xml
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\bin\Debug\PdfSharp.Charting.xml
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\obj\Debug\pdfmerge.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\obj\Debug\pdfmerge.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\obj\Debug\pdfmerge.csproj.CopyComplete
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\obj\Debug\pdfmerge.exe
+C:\Users\admin\source\repos\pdfmerge\pdfmerge\obj\Debug\pdfmerge.pdb
